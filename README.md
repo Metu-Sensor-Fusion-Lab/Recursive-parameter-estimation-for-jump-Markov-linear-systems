@@ -1,1 +1,1 @@
-The supplementary material for the paper  *Recursive parameter estimation for jump Markov linear systems* is available here: [Supplementary Material (PDF)](./Supplementary%20material%20for_%20Recursive%20parameter%20estimation%20for%20jump%20Markov%20linear%20systems.pdf?raw=true)
+The supplementary material for the paper *”Recursive parameter estimation for jump Markov linear systems”* is available here: [Supplementary Material (PDF)](./Supplementary%20material%20for_%20Recursive%20parameter%20estimation%20for%20jump%20Markov%20linear%20systems.pdf?raw=true)
